@@ -21,4 +21,4 @@
 
 &nbsp;
 
-![Wageningen University](figs/logo_WUR_small.png)
+![Wageningen University](https://github.com/ClaudiaBrauer/Water1/blob/master/figs/logo_WUR_small.png)
