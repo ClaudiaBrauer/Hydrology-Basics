@@ -1,5 +1,11 @@
 # Hydrology-Basics
 
+
+**Contents**
+
+I will upload interactive figures and other material explaining basic hydrological concepts.
+
+
 **Courses**
 
 [Water 1](https://ssc.wur.nl/Handbook/Course/HWM-10303) and [Water 2](https://ssc.wur.nl/Handbook/Course/AEW-23803) are first-year BSc courses on water sciences at Wageningen University. Water 1 is compulsory for all students from 5 BSc programmes and Water 2 for the 3 international programmes listed below: 
