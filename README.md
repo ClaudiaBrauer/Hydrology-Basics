@@ -27,5 +27,5 @@ I will upload interactive figures and other material explaining basic hydrologic
 
 <br>
 
-![Wageningen University](https://github.com/ClaudiaBrauer/WALRUS/documentation/figures/wu.png)
+![Wageningen University](figs/wu.png)
 [Hydrology and Quantitative Water Management Group](https://www.hwm.wur.nl), Wageningen University, The Netherlands
