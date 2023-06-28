@@ -3,7 +3,10 @@
 
 ## Contents
 
-I will upload interactive figures and other material explaining basic hydrological concepts.
+On this repository I will share education material explaining basic hydrological concepts:
+- Knowledge clips
+- Webapps (interactive figures)
+- ...
 
 
 ## Courses
