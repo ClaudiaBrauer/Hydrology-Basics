@@ -4,8 +4,8 @@
 ## Contents
 
 On this repository I will share education material explaining basic hydrological concepts:
-- Knowledge clips
-- Webapps (interactive figures)
+- [Knowledge clips](knowledge-clips)
+- [Webapps](webapps) (interactive figures)
 - ...
 
 
