@@ -31,4 +31,4 @@ On this repository I will share education material explaining basic hydrological
 <br>
 
 ![Wageningen University](figs/wu.png)
-[Hydrology and Quantitative Water Management Group](https://www.hwm.wur.nl), Wageningen University, The Netherlands
+[Hydrology and Environmental Hydraulics Group](https://www.hwm.wur.nl), Wageningen University, The Netherlands
