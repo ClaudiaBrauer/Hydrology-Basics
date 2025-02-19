@@ -1,11 +1,11 @@
 # Sprengenbeken ("spring brooks")
 
 A few years ago, some people from the Bekenstichting and I made a knowledge clip about "sprengenbeken", a specific type of man-made brook found on the slopes of glacial push moraines in the Netherlands. 
-In the video we explain (in Dutch) what makes these spring brooks special, how they were formed, where their water comes from and what is necessary to keep them.
+In this video we explain (in Dutch) what makes these sprengenbeken special, how they were formed, where their water comes from and what is necessary to keep them.
 
 ## Video
 
-The [video](https://sprengenbeken.nl/wat-is-een-sprengenbeek/) is available at the website of the Bekenstichting.
+The [video](https://sprengenbeken.nl/wat-is-een-sprengenbeek/) is available on the website of the Bekenstichting.
 
 ### Copyright
 
