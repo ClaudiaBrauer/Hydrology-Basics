@@ -16,6 +16,9 @@ The video is published under the Creative Commons BY-NC-ND licence. This means t
 
 <img src="by-nc-nd.png" height="40">
 
+<br/>
+<br/>
+<img src="video_titelslide.png" height="40">
 
 ## Figures
 
@@ -30,3 +33,9 @@ The figures are published under the Creative Commons BY-SA licence. This means t
 The CC-BY-SA watermark is included in the figure. Please don't remove it.
 
 <img src="by-sa.png" height="40">
+
+<br/>
+<br/>
+
+<img src="doorsnede_sprengenbeek_4.png" height="400">
+
