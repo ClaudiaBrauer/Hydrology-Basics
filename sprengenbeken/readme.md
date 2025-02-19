@@ -18,7 +18,7 @@ The video is published under the Creative Commons BY-NC-ND licence. This means t
 
 <br/>
 <br/>
-<img src="video_titelslide.png" height="40">
+<img src="video_titelslide.png" height="300">
 
 ## Figures
 
