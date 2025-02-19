@@ -14,7 +14,7 @@ The video is published under the Creative Commons BY-NC-ND licence. This means t
 - NonCommercial — You may not use the material for commercial purposes .
 - NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-![CC BY-NC-ND licence](by-nc-nd.png)
+<img src="by-nc-nd.png" height="40">
 
 
 ## Figures
@@ -29,5 +29,4 @@ The figures are published under the Creative Commons BY-SA licence. This means t
 
 The CC-BY-SA watermark is included in the figure. Please don't remove it.
 
-![CC BY-SA licence](by-sa.png)
-
+<img src="by-sa.png" height="40">
