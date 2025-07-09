@@ -1,6 +1,6 @@
 # Knowledge clips
 
-This [playlist](https://www.youtube.com/playlist?list=PL6CieJwBXBKzHg2vWX0A1nt_RBYVs2TKg) contains videos for the course Water 1 of Wageningen University. The videos cover some basics of hydrology and water quality. 
+This [playlist](https://www.youtube.com/playlist?list=PL6CieJwBXBKzHg2vWX0A1nt_RBYVs2TKg) contains videos for the course Water Systems: Exploration (formerly called Water 1) of Wageningen University. The videos cover some basics of hydrology and water quality. 
 It consists of 24 videos: 8 about catchments, 8 about groundwater and 8 about water quality. 
 
 *This is a combined effort of the Hydrology and Environmental Hydraulics Group, 
