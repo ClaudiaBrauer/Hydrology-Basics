@@ -3,7 +3,7 @@
 
 ## Contents
 
-On this repository I will share education material explaining basic hydrological concepts:
+On this repository I share education material explaining basic hydrological concepts:
 - [Knowledge clips](knowledge-clips)
 - [Webapps](webapps) (interactive figures)
 - ...
